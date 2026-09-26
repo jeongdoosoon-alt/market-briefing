@@ -1,0 +1,4 @@
+yfinance>=0.2.50
+google-genai>=1.0.0
+requests>=2.31
+python-dotenv>=1.0

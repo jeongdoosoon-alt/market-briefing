@@ -1,0 +1,4 @@
+.env
+kakao_tokens.json
+__pycache__/
+.venv/
